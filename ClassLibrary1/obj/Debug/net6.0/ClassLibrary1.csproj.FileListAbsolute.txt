@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\שולחן העבודה\New folder\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
